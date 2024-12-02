@@ -1,6 +1,7 @@
-## Hi Everyone!👋👋 I'm Zoobia!
+## Hi Everyone! I'm Zoobia!
 
 Im a software developer who likes exploring new technologies! I'm skilled in React, Typescript, PostgreSQL, Express, and Node. I love getting creative with my projects, especially showcasing my love for Pokemon! When I'm not coding, I like reading manga and spending time with my cat 🐾😻
+
 
 
 ### 📚 My Stack 
